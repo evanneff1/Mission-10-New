@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIFun", "APIFun.csproj", "{1CE0265B-792A-4543-B3C3-7C2CF9384929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE0265B-792A-4543-B3C3-7C2CF9384929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE0265B-792A-4543-B3C3-7C2CF9384929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE0265B-792A-4543-B3C3-7C2CF9384929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE0265B-792A-4543-B3C3-7C2CF9384929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76237503-53EC-47E7-86BD-56B23C3626C7}
+	EndGlobalSection
+EndGlobal
